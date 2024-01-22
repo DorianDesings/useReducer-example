@@ -1,5 +1,7 @@
+import Shop from './components/shop/Shop';
+
 const App = () => {
-	return <h1>Nucleo de la aplicación</h1>;
+	return <Shop />;
 };
 
 export default App;
